@@ -5,17 +5,188 @@
   <link href="https://lautarolobo.xyz/feed.xml" rel="self"/>
   <link href="https://lautarolobo.xyz/"/>
   <id>urn:uuid:4b6fc0ee-c5f9-4c67-849f-b220d14bb6f1</id>
-  <updated>2019-12-04T11:11:21-03:00</updated>
+  <updated>2020-01-22T11:18:50-03:00</updated>
   <author>
     <name>Lautaro Jordan Lobo Ravarotto</name>
   </author>
-  <rights>© Lautaro Jordan Lobo Ravarotto 2019</rights>
+  <rights>© Lautaro Jordan Lobo Ravarotto 2020</rights>
+  <entry>
+    <title>January of JavaScript</title>
+    <link href="https://lautarolobo.xyz/blog/january-of-javascript/" rel="alternate"/>
+    <id/>
+    <published>2020-01-22T11:01:00-03:00</published>
+    <updated>2020-01-22T11:18:50-03:00</updated>
+    <author>
+      <name>Lautaro Jordan Lobo Ravarotto</name>
+    </author>
+    <content type="html">&lt;script type="application/ld+json"&gt;
+{
+ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "url": "https://lautarolobo.xyz/blog/january-of-javascript",
+ "mainEntityOfPage": "https://lautarolobo.xyz/blog/january-of-javascript",
+ "headline": "January of JavaScript",
+ "alternativeHeadline": "JavaScript on January",
+ "genre": "JavaScript", 
+ "keywords": [
+  "javascript", 
+  "january", 
+  "programming",
+  "coding"
+],  
+ "wordcount": "617",
+ "datePublished": "2019-01-17",
+ "dateCreated": "2019-01-17",
+ "dateModified": "2019-01-17",
+ "description": "It's January, time to talk about JavaScript",
+ "isFamilyFriendly": "true",
+ "image": "https://imgsafe.org/image/5709e8ceba",
+ "publisher": {
+  "@type": "Organization",
+  "name": "Lautaro Jordan Lobo Ravarotto",
+  "url": "https://lautarolobo.xyz",
+  "logo": {  
+   "@type": "ImageObject",
+   "author": "Lautaro Jordan Lobo Ravarotto",
+   "url": "https://imgsafe.org/image/5709e8ceba.png"
+   }
+  },
+ "author": {
+  "@type": "Person",
+  "name": "Lautaro Jordan Lobo Ravarotto",
+  "url": "https://lautarolobo.xyz",
+  "email": "contact@lautarolobo.xyz",
+  "birthDate": "2000-04-12",
+  "gender": "male",
+  "nationality": "Argentina",
+  "alumniOf": {
+   "@type": "CollegeOrUniversity",
+   "legalName": "National University of Córdoba",
+   "sameAs": "https://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba",
+   "location": {
+    "@type": "Place",
+    "sameAs": "http://unc.edu.ar",
+    "name": "National University of Córdoba",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. Haya de la Torre s/n",
+      "addressCountry": "Argentina",
+      "addressLocality": "Córdoba",
+      "postalCode": "5000" 
+      }
+     }
+    }
+   },
+ "creator": {
+  "@type": "Person",
+  "name": "Lautaro Jordan Lobo Ravarotto",
+  "url": "https://lautarolobo.xyz",
+  "email": "contact@lautarolobo.xyz",
+  "birthDate": "2000-04-12",
+  "gender": "male",
+  "nationality": "Argentina",
+  "alumniOf": {
+   "@type": "CollegeOrUniversity",
+   "legalName": "National University of Córdoba",
+   "sameAs": "https://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba",
+   "location": {
+    "@type": "Place",
+    "sameAs": "http://unc.edu.ar",
+    "name": "National University of Córdoba",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. Haya de la Torre s/n",
+      "addressCountry": "Argentina",
+      "addressLocality": "Córdoba",
+      "postalCode": "5000" 
+      }
+     }
+    }   
+   }
+  }
+ }
+},
+&lt;/script&gt;
+
+&lt;p&gt;It&amp;rsquo;s January. Time to talk about JavaScript. How was it born? Why is it called like that? Is it really that popular? Let&amp;rsquo;s find out!&lt;/p&gt;
+
+&lt;h2&gt;A Little Bit Of History&lt;/h2&gt;
+
+&lt;p&gt;JavaScript was born in December of 1995 when Netscape announced it&amp;rsquo;s rollout. The guy behind the work? Brendan Eich, a Computer Scientist working at that time in Netscape. He&amp;rsquo;s known as the father of JavaScript, because of his titanic work on the language before it&amp;rsquo;s rollout.&lt;/p&gt;
+
+&lt;p&gt;Fun fact: JavaScript was named Mocha, then LiveScript, and finally they changed it once and for all to the name that we all know now.&lt;/p&gt;
+
+&lt;p&gt;And why is it called &amp;lsquo;Java&amp;rsquo;-&amp;lsquo;Script&amp;rsquo;? Well, quoting Brendan:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[&amp;hellip;] It was all within six months from May till December (1995) that it was Mocha and then LiveScript. And then in early December, Netscape and Sun did a license agreement and it became JavaScript. And the idea was to make it a complementary scripting language to go with Java, with the compiled language.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A co-marketing deal between Netscape and Sun.&lt;/p&gt;
+
+&lt;p&gt;In fact, Oracle acquired Sun Microsystems in 2009, so &amp;ldquo;JAVASCRIPT&amp;rdquo; is a trademark of Oracle. How crazy is that?&lt;/p&gt;
+
+&lt;p&gt;In 1997, ECMAScript was born. But what is ECMAScript? It&amp;rsquo;s a standard, a specification of a programming language, published by ECMA (European Computer Manufacturers Association) International. So JavaScript is a dialect of the ECMAScript standard. &lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s right, ECMAScript &lt;em&gt;defines&lt;/em&gt; a programming language, and JavaScript &lt;em&gt;is&lt;/em&gt; the programming language. &lt;/p&gt;
+
+&lt;p&gt;There were different versions of the standard since it first came out. Today, every modern web browser supports ECMAScript 5.1, and almost everyone supports the latest version, ECMAScript 6. Newer versions are still in the early stages of development.&lt;/p&gt;
+
+&lt;p&gt;Are you confused yet? To make it simpler, ECMAScript is like the version, and JavaScript is the language itself.&lt;/p&gt;
+
+&lt;p&gt;For a more-of-a-timeline of the history of JavaScript, check:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb"&gt;The Weird History of JavaScript&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Weird Stuff&lt;/h2&gt;
+
+&lt;p&gt;When using JS, you may find some weird stuff going one, like that NaN (which stands for Not a Number) it&amp;rsquo;s a&amp;hellip; number:&lt;/p&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;typeof&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kc"&gt;NaN&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt; &lt;span class="c1"&gt;// number&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And NaN it&amp;rsquo;s not NaN ¿?&lt;/p&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kc"&gt;NaN&lt;/span&gt; &lt;span class="o"&gt;===&lt;/span&gt; &lt;span class="kc"&gt;NaN&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;// false&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And that NaN is an infinite number. Wait&amp;hellip; what?&lt;/p&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;isFinite&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kc"&gt;NaN&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt; &lt;span class="c1"&gt;// false&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And you know what&amp;rsquo;s the weirdest part? You should expect JS to behave like this! I mean, this is all on the specs.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href="https://giphy.com/gifs/CDJo4EgHwbaPS"&gt;&lt;iframe src="https://giphy.com/embed/CDJo4EgHwbaPS" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;You can take a look at more weird stuff here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dev.to/qjlee/do-you-know-these-weird-parts-of-javascript-48pg"&gt;Do you know these weird parts of JavaScript?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;What&amp;rsquo;s Next?&lt;/h2&gt;
+
+&lt;p&gt;As I said before, there are some newer versions of the ECMAScript standard on development. But in so early stages that we shouldn&amp;rsquo;t expect JS to change much anytime soon.&lt;/p&gt;
+
+&lt;p&gt;After all, you can already use JS on almost anything: Videogames, AI, Back-End, Front-End, Art, Data Analytics&amp;hellip; &lt;/p&gt;
+
+&lt;p&gt;And many frameworks and libraries are popping up every day. &lt;a href="https://svelte.dev/"&gt;Svelte&lt;/a&gt; has changed the paradigm of website rendering. There&amp;rsquo;s this thing called &lt;a href="https://cssinjs.org/?v=v10.0.3"&gt;CSS-in-JS&lt;/a&gt;. You can even write Artificial Neural Networks with &lt;a href="https://www.tensorflow.org/js"&gt;Tensorflow.js&lt;/a&gt;, develop videogames with &lt;a href="https://github.com/BabylonJS/Babylon.js"&gt;Babylon.js&lt;/a&gt;, make art using &lt;a href="https://p5js.org/"&gt;p5.js&lt;/a&gt;, &lt;a href="https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017"&gt;automate stuff with NodeJS&lt;/a&gt;, &lt;a href="https://observablehq.com/@dakoop/learn-js-data"&gt;even make charts based on .csv files!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dang that&amp;rsquo;s broad, right?&lt;/p&gt;
+
+&lt;p&gt;So yeah, it&amp;rsquo;s a smart move to learn JavaScript. It&amp;rsquo;s used all around the web and even in non-web environments, for good or bad. In fact, from the &lt;a href="https://insights.stackoverflow.com/survey/2019"&gt;Stack Overflow Developer Survey of 2019&lt;/a&gt; we can say that it&amp;rsquo;s the most commonly used programming language. And the top Libraries and Frameworks are also JS-based.&lt;/p&gt;
+
+&lt;p&gt;It seems like JS is staying with us for a while.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Hey, thanks for reading until this far! If you are starting your journey on JavaScript, or just want to train yourself a bit, check my &lt;a href="https://lautarolobo.xyz/blog/7-days-of-js-factorial-and-average/"&gt;#7DaysJS Challenge!&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;See ya!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Solution to Day 7 of 7 Days of JS</title>
     <link href="https://lautarolobo.xyz/blog/solution-to-day-7-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-12-05T08:19:00-03:00</published>
-    <updated>2019-12-04T11:07:29-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -150,7 +321,7 @@
     <link href="https://lautarolobo.xyz/blog/7-days-of-js-primes-until-n/" rel="alternate"/>
     <id/>
     <published>2019-12-05T08:16:00-03:00</published>
-    <updated>2019-12-04T11:11:21-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -269,7 +440,7 @@
     <link href="https://lautarolobo.xyz/blog/solution-to-day-6-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-12-04T09:26:00-03:00</published>
-    <updated>2019-12-04T10:01:33-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -409,7 +580,7 @@
     <link href="https://lautarolobo.xyz/blog/7-days-of-js-myelement-plus-n/" rel="alternate"/>
     <id/>
     <published>2019-12-04T09:25:00-03:00</published>
-    <updated>2019-12-04T10:25:25-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -523,7 +694,7 @@
     <link href="https://lautarolobo.xyz/blog/solution-to-day-5-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-12-03T21:03:00-03:00</published>
-    <updated>2019-12-04T10:01:22-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -656,7 +827,7 @@
     <link href="https://lautarolobo.xyz/blog/7-days-of-js-where-is-my-element/" rel="alternate"/>
     <id/>
     <published>2019-12-03T20:20:00-03:00</published>
-    <updated>2019-12-04T10:25:17-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -765,7 +936,7 @@
     <link href="https://lautarolobo.xyz/blog/solution-to-day-4-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-12-02T14:48:00-03:00</published>
-    <updated>2019-12-04T10:01:08-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -903,7 +1074,7 @@
     <link href="https://lautarolobo.xyz/blog/7-days-of-js-reverse-a-string/" rel="alternate"/>
     <id/>
     <published>2019-12-02T14:43:00-03:00</published>
-    <updated>2019-12-04T10:25:01-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1017,7 +1188,7 @@
     <link href="https://lautarolobo.xyz/blog/solution-to-day-3-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-12-01T18:35:00-03:00</published>
-    <updated>2019-12-04T10:00:52-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1158,7 +1329,7 @@
     <link href="https://lautarolobo.xyz/blog/7-days-of-js-read-my-sign/" rel="alternate"/>
     <id/>
     <published>2019-12-01T18:22:00-03:00</published>
-    <updated>2019-12-04T10:24:53-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1274,7 +1445,7 @@
     <link href="https://lautarolobo.xyz/blog/solution-to-day-2-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-11-30T12:27:00-03:00</published>
-    <updated>2019-12-04T10:00:39-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1405,117 +1576,11 @@
 </content>
   </entry>
   <entry>
-    <title>7 Days of JS: Even or Odd</title>
-    <link href="https://lautarolobo.xyz/blog/7-days-of-js-even-or-odd/" rel="alternate"/>
-    <id/>
-    <published>2019-11-30T12:17:00-03:00</published>
-    <updated>2019-12-04T10:24:42-03:00</updated>
-    <author>
-      <name>Lautaro Jordan Lobo Ravarotto</name>
-    </author>
-    <content type="html">&lt;script type="application/ld+json"&gt;
-{
- "@context": "https://schema.org", 
- "@type": "BlogPosting",
- "url": "https://lautarolobo.xyz/blog/7-days-of-js-even-or-odd",
- "mainEntityOfPage": "https://lautarolobo.xyz/blog/7-days-of-js-even-or-odd",
- "headline": "7 Days of JS: Even or Odd",
- "alternativeHeadline": "Day 2 of 7 Days of JS: Even or Odd",
- "genre": "JavaScript", 
- "keywords": [
-  "javascript", 
-  "challenge", 
-  "programming"
-],  
- "wordcount": "69",
- "datePublished": "2019-11-30",
- "dateCreated": "2019-11-30",
- "dateModified": "2019-11-30",
- "description": "Today we are working with a classic problem: diferentiate odds from even numbers in an array.",
- "isFamilyFriendly": "true",
- "image": "https://lautarolobo.xyz/images/7daysJS-7f7d8328.webp",
- "publisher": {
-  "@type": "Organization",
-  "name": "Lautaro Jordan Lobo Ravarotto",
-  "url": "https://lautarolobo.xyz",
-  "logo": {  
-   "@type": "ImageObject",
-   "author": "Lautaro Jordan Lobo Ravarotto",
-   "url": "https://imgsafe.org/image/5709e8ceba.png"
-   }
-  },
- "author": {
-  "@type": "Person",
-  "name": "Lautaro Jordan Lobo Ravarotto",
-  "url": "https://lautarolobo.xyz",
-  "email": "contact@lautarolobo.xyz",
-  "birthDate": "2000-04-12",
-  "gender": "male",
-  "nationality": "Argentina",
-  "alumniOf": {
-   "@type": "CollegeOrUniversity",
-   "legalName": "National University of Córdoba",
-   "sameAs": "https://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba",
-   "location": {
-    "@type": "Place",
-    "sameAs": "http://unc.edu.ar",
-    "name": "National University of Córdoba",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Av. Haya de la Torre s/n",
-      "addressCountry": "Argentina",
-      "addressLocality": "Córdoba",
-      "postalCode": "5000" 
-      }
-     }
-    }
-   },
- "creator": {
-  "@type": "Person",
-  "name": "Lautaro Jordan Lobo Ravarotto",
-  "url": "https://lautarolobo.xyz",
-  "email": "contact@lautarolobo.xyz",
-  "birthDate": "2000-04-12",
-  "gender": "male",
-  "nationality": "Argentina",
-  "alumniOf": {
-   "@type": "CollegeOrUniversity",
-   "legalName": "National University of Córdoba",
-   "sameAs": "https://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba",
-   "location": {
-    "@type": "Place",
-    "sameAs": "http://unc.edu.ar",
-    "name": "National University of Córdoba",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Av. Haya de la Torre s/n",
-      "addressCountry": "Argentina",
-      "addressLocality": "Córdoba",
-      "postalCode": "5000" 
-      }
-     }
-    }   
-   }
-  }
- }
-},
-&lt;/script&gt;
-
-&lt;p&gt;Welcome to day 2 of 7 Days of JavaScript!&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s begin our journey today. We need to write a function that takes an array and gives back two values: one with the sum of all the odd numbers of the array, and other with the sum of all the even numbers on the array.&lt;/p&gt;
-
-&lt;p&gt;It can&amp;rsquo;t be that hard right?&lt;/p&gt;
-
-&lt;p&gt;You can read the solution to today&amp;rsquo;s challenge &lt;a href="https://lautarolobo.xyz/blog/solution-to-day-2-of-7-days-of-js" title="Solution to Day 2 of 7 Days of JS"&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
     <title>Solution to Day 1 of 7 Days of JS</title>
     <link href="https://lautarolobo.xyz/blog/solution-to-day-1-of-7-days-of-js/" rel="alternate"/>
     <id/>
     <published>2019-11-29T19:48:00-03:00</published>
-    <updated>2019-11-30T12:20:24-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1681,7 +1746,7 @@
     <link href="https://lautarolobo.xyz/blog/7-days-of-js-factorial-and-average/" rel="alternate"/>
     <id/>
     <published>2019-11-29T19:32:00-03:00</published>
-    <updated>2019-11-30T12:19:20-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1814,7 +1879,7 @@
     <link href="https://lautarolobo.xyz/blog/here-are-5-reasons-why-you-need-to-go-to-a-hackathon/" rel="alternate"/>
     <id/>
     <published>2019-10-17T12:00:00-03:00</published>
-    <updated>2019-11-29T17:48:26-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -1983,7 +2048,7 @@
     <link href="https://lautarolobo.xyz/blog/how-machine-learning-5g-and-data-science-will-be-critical-to-the-future-of-the-internet-of-things/" rel="alternate"/>
     <id/>
     <published>2019-09-30T12:20:00-03:00</published>
-    <updated>2019-10-17T13:14:46-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -2267,7 +2332,7 @@
     <link href="https://lautarolobo.xyz/blog/ids-vs-classes-a-css-specificity-chapter/" rel="alternate"/>
     <id/>
     <published>2019-08-25T00:20:00-03:00</published>
-    <updated>2019-11-29T17:51:05-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -2476,7 +2541,7 @@
     <link href="https://lautarolobo.xyz/blog/neural-networks-101/" rel="alternate"/>
     <id/>
     <published>2019-07-31T12:21:00-03:00</published>
-    <updated>2019-11-29T17:47:15-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -2693,7 +2758,7 @@
     <link href="https://lautarolobo.xyz/blog/continuous-deployment-on-hostinger/" rel="alternate"/>
     <id/>
     <published>2019-07-17T03:37:00-03:00</published>
-    <updated>2019-11-29T17:52:56-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -2830,7 +2895,7 @@
     <link href="https://lautarolobo.xyz/blog/is-virtualization-enabled/" rel="alternate"/>
     <id/>
     <published>2019-06-24T17:55:00-03:00</published>
-    <updated>2019-06-24T17:59:30-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -2973,7 +3038,7 @@ KVM acceleration can NOT be used
     <link href="https://lautarolobo.xyz/blog/which-linux-distro-am-I-running/" rel="alternate"/>
     <id/>
     <published>2019-06-02T13:33:00-03:00</published>
-    <updated>2019-06-02T13:10:10-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -3097,7 +3162,7 @@ Well, I hope that this has helped to let you know which Linux distro are you run
     <link href="https://lautarolobo.xyz/blog/recursive-function-haskell/" rel="alternate"/>
     <id/>
     <published>2019-05-17T17:05:00-03:00</published>
-    <updated>2019-11-29T17:51:46-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -3239,7 +3304,7 @@ $$(2 \times 7) \triangleright ((2 \times 3) \triangleright ((2 \times 5) \triang
     <link href="https://lautarolobo.xyz/blog/first-haskell-function/" rel="alternate"/>
     <id/>
     <published>2019-05-01T21:42:00-03:00</published>
-    <updated>2019-05-22T14:24:50-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -3383,7 +3448,7 @@ Ok, modules loaded: Main.
     <link href="https://lautarolobo.xyz/blog/installing-ghc-in-linux/" rel="alternate"/>
     <id/>
     <published>2019-04-21T11:14:00-03:00</published>
-    <updated>2019-05-22T14:17:32-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
@@ -3512,7 +3577,7 @@ Prelude&amp;gt;
     <link href="https://lautarolobo.xyz/blog/what-s-haskell/" rel="alternate"/>
     <id/>
     <published>2019-04-18T17:09:00-03:00</published>
-    <updated>2019-05-22T14:12:50-03:00</updated>
+    <updated>2020-01-14T09:09:03-03:00</updated>
     <author>
       <name>Lautaro Jordan Lobo Ravarotto</name>
     </author>
